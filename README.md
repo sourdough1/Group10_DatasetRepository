@@ -14,6 +14,7 @@ We applied Gaussian Graphical Models to estimate partial correlations between st
 📁 scripts/ └── Group10_RScript.R
 
 📁 results/ ├── Network Model.pdf ├── bootstrap_CI_plot.png ├── edge_difference_plot.png ├── CS_plot.png └── bridge_strength_plot.png
+
 ---
 
 ## 🧪 Analysis Pipeline
