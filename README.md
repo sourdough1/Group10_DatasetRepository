@@ -13,7 +13,7 @@ We applied Gaussian Graphical Models to estimate partial correlations between st
 
 📁 scripts/ └── Group10_RScript.R
 
-📁 results/ ├── Network Model.pdf ├── bootstrap_CI_plot.png ├── edge_difference_plot.png ├── CS_plot.png └── bridge_strength_plot.png
+📁 results/ ├── Network Model.pdf ├── bootstrap_CI_plot.jpg ├── edge_difference_plot.jpg ├── CS_plot.jpg ├──bridge_strength_plot.jpg ├── centrality_analysis_plot.jpg
 
 ---
 
@@ -45,6 +45,7 @@ To reproduce the analysis:
 
 - Network graph visualizing stress structure
 - Edge weight bootstrapping with confidence intervals
+- Centrality Analysis Plots
 - Bridge centrality rankings
 - Centrality stability plots and CS-coefficients
 
